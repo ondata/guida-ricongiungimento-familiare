@@ -1,0 +1,29 @@
+{
+    "language": "it",
+    "title": "Guida per il ricongiungimento familiare tra cittadini extra UE",
+    "author": "Sportello Unico per l'Immigrazione di MILANO",
+    "direction": "ltr",
+    "pdf.paperSize": "a4",
+    "root": "doc",
+    "plugins" : [ "anchors","edit-link","disqus","superscript","youtube"],
+        "pluginsConfig": {
+            "edit-link": {
+                "base": "https://github.com/ondata/guida-ricongiungimento-familiare/tree/master/doc",
+                "label": "su GitHub"
+            },
+            "disqus": {
+                "shortName": "miafamiglia"
+            },
+            "sharing": {
+                "facebook": true,
+                "twitter": true,
+                "google": false,
+                "weibo": false,
+                "instapaper": false,
+                "vk": false,
+                "all": [
+                    "facebook", "google", "twitter"
+                ]
+            }
+        }
+    }
