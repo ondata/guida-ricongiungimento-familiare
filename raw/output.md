@@ -12,6 +12,16 @@
 - [Come deve essere utilizzato il nulla osta rilasciato dal SUI?](#come-deve-essere-utilizzato-il-nulla-osta-rilasciato-dal-sui)
 - [Cosa fare se la domanda di nulla osta o visto non è accolta?](#cosa-fare-se-la-domanda-di-nulla-osta-o-visto-non-%C3%A8-accolta)
 - [Cosa deve fare il familiare ricongiunto che arriva a Milano?](#cosa-deve-fare-il-familiare-ricongiunto-che-arriva-a-milano)
+- [Che cos'è l'Accordo d'Integrazione?](#che-cos%C3%A8-laccordo-dintegrazione)
+- [Che tipo di permesso di soggiorno verrà rilasciato dalla Questura al familiare ricongiunto?](#che-tipo-di-permesso-di-soggiorno-verr%C3%A0-rilasciato-dalla-questura-al-familiare-ricongiunto)
+- [Come si richiede la residenza al Comune di Milano?](#come-si-richiede-la-residenza-al-comune-di-milano)
+- [Come si ottiene la Carta Regionale dei Servizi (Tessera Sanitaria)?](#come-si-ottiene-la-carta-regionale-dei-servizi-tessera-sanitaria)
+- [Se i familiari ricongiunti devono studiare in Italia, quali documenti portare dal paese d'origine per iscriverli a scuola?](#se-i-familiari-ricongiunti-devono-studiare-in-italia-quali-documenti-portare-dal-paese-dorigine-per-iscriverli-a-scuola)
+- [Cosa occorre fare per iscrivere i figli neo arrivati a scuola?](#cosa-occorre-fare-per-iscrivere-i-figli-neo-arrivati-a-scuola)
+- [Quale scuola scegliere?](#quale-scuola-scegliere)
+- [Come trovare un corso d'italiano a Milano?](#come-trovare-un-corso-ditaliano-a-milano)
+- [Il ricongiungimento familiare non è solo una procedura amministrativa](#il-ricongiungimento-familiare-non-%C3%A8-solo-una-procedura-amministrativa)
+- [INDIRIZZARIO](#indirizzario)
 
 <!-- /TOC -->
 
@@ -116,10 +126,11 @@ richiedente che integrano il reddito<br>
 **quadro 16** - ALLOGGIO Inserire i
 dati dell'alloggio dove dimoreranno i familiari e del certificato di idoneità abitativa e igienico sanitaria
 
-ATTENZIONE:<br>
-a) il certificato o attestazione di idoneità abitativa e
+ATTENZIONE:
+
+- il certificato o attestazione di idoneità abitativa e
 igienico sanitaria si richiede al Comune in cui si trova l'alloggio<br>
-b) in caso di ricongiungimento
+- in caso di ricongiungimento
 familiare per un solo minore di anni 14 - qualora nell'alloggio non
 siano presenti altri minori di anni 14 - il certificato idoneità
 abitativa e igienico sanitaria non serve
@@ -400,7 +411,7 @@ Se vengono rifiutati il nulla osta o il visto d'ingresso per
 ricongiungimento familiare:
 
 - si ha diritto a chiedere sempre la motivazione per iscritto
-- si può presentare ricorso al Tribunale Ordinario del luogo di residenza (a Milano in C.so di Porta Vittoria).
+- si può presentare ricorso al Tribunale Ordinario del luogo di residenza (a Milano in C\.so di Porta Vittoria).
 Se il Giudice accoglie il ricorso rilascia direttamente il visto
 d'ingresso per ricongiungimento familiare.
 
@@ -433,22 +444,18 @@ Per i genitori ultra sessantacinquenni è previsto l'obbligo di stipulare
 un assicurazione sanitaria o l'iscrizione volontaria al servizio
 sanitario nazionale.
 
+# Che cos'è l'Accordo d'Integrazione?
+
 L'Accordo di Integrazione si stipula tra il cittadino straniero extra UE
 e lo Stato italiano, viene firmato dai cittadini maggiori di 16 anni
 entrati in Italia per la prima volta dopo il 10 marzo 2012, che
-presentano la domanda per il Permesso di Soggiorno di durata non Che
-cos'è
-
-inferiore a 1 anno. l'Accordo
-
-Lo Sportello Unico della Prefettura il giorno dell'appuntamento per la
-richiesta del primo d'Integrazione?
-
-permesso di soggiorno per ricongiungimento familiare fa firmare
+presentano la domanda per il Permesso di Soggiorno di durata non 
+inferiore a 1 anno.<br>Lo Sportello Unico della Prefettura il giorno dell'appuntamento per la
+richiesta del primo  permesso di soggiorno per ricongiungimento familiare fa firmare
 l'accordo al familiare neo arrivato consegnandogli una copia tradotta
 nella sua lingua.
 
-*ATTENZIONE: Non devono firmare l'Accordo di Integrazione i familiari
+***ATTENZIONE**: **Non devono firmare** l'Accordo di Integrazione i familiari
 che hanno patologie o handicap che limitano gravemente l'autosufficienza
 o impediscono l'apprendimento linguistico e culturale, certificato da
 apposita documentazione medica da esibire allo Sportello Unico per
@@ -456,13 +463,15 @@ l'Immigrazione.*
 
 L'Accordo ha la durata di due anni, prorogabile di un altro anno. Un
 mese prima della scadenza dei due anni lo Sportello Unico verifica il
-totale dei “punti” raggiunti che deve essere pari o maggiori di 30.
+**totale dei “punti”** raggiunti che deve essere **pari o maggiori di 30**.
 
 Al familiare entrato in Italia all'atto della firma dell''Accordo
 vengono assegnati 16 punti, per non perderne 15 bisogna frequentare il
 corso di educazione civica gratuito indicato dal SUI. Si tratta di due
 lezioni di 5 ore l'una (tot. 10 ore) tenuto nella lingua del paese di
-provenienza. ATTENZIONE: Se non è possibile partecipare al corso il
+provenienza. 
+
+**ATTENZIONE**: Se non è possibile partecipare al corso il
 giorno stabilito dal SUI bisogna comunicarlo e presentare la
 documentazione che giustifichi l'impossibilità a partecipare. Ad esempio
 in caso di malattia si può presentare un certificato del medico, oppure
@@ -472,41 +481,30 @@ di posta elettronica messo a disposizione dal SUI:
 [accordo.integrazione.pref_milano@interno.it](mailto:accordo.integrazione.pref_milano@interno.it). Nel testo della mail
 indicare sempre:
 
-**1) Identificativo dell'Accordo 2) Codice fiscale 3) Dati anagrafici Se
-non si partecipa al corso e non si presenta alcuna giustificazione
+1) Identificativo dell'Accordo
+2) Codice fiscale
+3) Dati anagrafici 
+
+**Se non si partecipa al corso e non si presenta alcuna giustificazione
 verranno tolti 15 punti!! Non è possibile rifare il corso in un'altra
 data.**
 
 I principali impegni previsti dall'Accordo di Integrazione sono:
 
-• Conoscere i principi fondamentali della Costituzione della Repubblica
-Italiana e dell'organizzazione e funzionamento delle Istituzioni
-Pubbliche in Italia;
-
-• Imparare la lingua italiana parlata, almeno al livello A2;
-
-• Conoscere la vita civile in Italia, cioè sapere come funziona il
-sistema sanitario, la scuola, i servizi sociali, l'organizzazione del
-lavoro, il sistema delle tasse ecc.
-
-• Far frequentare la scuola ai figli rispettando l'obbligo scolastico;
-
-• Iscriversi al Servizio Sanitario Nazionale (SSN) e scegliere il
+- Conoscere i principi fondamentali della Costituzione della Repubblica Italiana e dell'organizzazione e funzionamento delle Istituzioni Pubbliche in Italia;
+- Imparare la lingua italiana parlata, almeno al livello A2;
+- Conoscere la vita civile in Italia, cioè sapere come funziona il sistema sanitario, la scuola, i servizi sociali, l'organizzazione del lavoro, il sistema delle tasse ecc.
+- Far frequentare la scuola ai figli rispettando l'obbligo scolastico;
+- Iscriversi al Servizio Sanitario Nazionale (SSN) e scegliere il
 medico.
 
-Per ognuno di questi impegni sono previsti dei “crediti”, cioè un numero
-preciso di punti.
+Per ognuno di questi impegni sono previsti dei “crediti”, cioè un numero preciso di punti: 
 
-- Se allo scadere dei due anni non sono stati raggiunti i 30 crediti
-(punti), l'accordo viene prorogato di un altro anno alle stesse
-condizioni; - Se non si è in possesso della documentazione per
-dimostrare i crediti ottenuti, si può chiedere di essere sottoposto ad
-un test di conoscenza della lingua italiana, della cultura civica e
-della vita civile in Italia; - Se non ci sono i crediti e non ci si
-sottopone al test o non lo si supera, l'Accordo non è stato rispettato e
-verrà chiuso per inadempimento.
+- Se allo scadere dei due anni non sono stati raggiunti i 30 crediti (punti), l'accordo viene prorogato di un altro anno alle stesse condizioni;
+- Se non si è in possesso della documentazione per dimostrare i crediti ottenuti, si può chiedere di essere sottoposto ad un test di conoscenza della lingua italiana, della cultura civica e della vita civile in Italia;
+- Se non ci sono i crediti e non ci si sottopone al test o non lo si supera, l'Accordo non è stato rispettato e verrà chiuso per inadempimento.
 
-**Che tipo di permesso di soggiorno verrà**
+# Che tipo di permesso di soggiorno verrà rilasciato dalla Questura al familiare ricongiunto?
 
 Il permesso di soggiorno verrà rilasciato per “motivi familiari” e avrà
 la stessa durata del permesso di soggiorno del familiare a cui è
@@ -515,30 +513,15 @@ regolato dall'articolo 30 del Testo Unico sull'immigrazione (D. Lgs.
 286/98) e consente:
 
 - di svolgere qualsiasi attività lavorativa;
+- di accedere a scuole o corsi di formazione; - di iscriversi al Servizio Sanitario Nazionale (SSN), ottenendo quindi la tessera sanitaria e l'assegnazione di un medico di base nella propria zona;
+- di iscriversi all'Anagrafe per ottenere la residenza e la carta d'identità (non valida per l'espatrio).
 
-- di accedere a scuole o corsi di formazione; - di iscriversi al
-Servizio Sanitario Nazionale (SSN), ottenendo quindi la tessera
+Alla scadenza, il permesso di soggiorno potrà: 
 
-sanitaria e l'assegnazione di un medico di base nella propria zona; - di
-iscriversi all'Anagrafe per ottenere la residenza e la carta d'identità
-(non valida
-
-per l'espatrio).
-
-Alla scadenza, il permesso di soggiorno potrà: - essere rinnovato per
-motivi familiari, se si è in possesso degli stessi requisiti; - essere
-convertito in un permesso per motivi lavoro, se si svolge un'attività
-lavorativa
-
-autonoma o dipendente; - essere convertito in motivi di lavoro o di
-studio o per ricerca lavoro, se viene a mancare il vincolo familiare o
-altro requisito, che aveva consentito il rilascio del permesso di
-soggiorno per motivi familiari (separazione, divorzio o morte del
-coniuge; raggiungimento della maggiore età del figlio). - i figli
-ricongiunti che compiono la maggiore età, ma che continuano ad essere a
-carico del genitore convivente, possono chiedere il rinnovo per motivi
-familiari, dimostrando il possesso del requisito reddituale e di
-idoneità abitativa da parte del genitore.
+- essere rinnovato per motivi familiari, se si è in possesso degli stessi requisiti;
+- essere convertito in un permesso per motivi lavoro, se si svolge un'attività lavorativa autonoma o dipendente;
+- essere convertito in motivi di lavoro o di studio o per ricerca lavoro, se viene a mancare il vincolo familiare o altro requisito, che aveva consentito il rilascio del permesso di soggiorno per motivi familiari (separazione, divorzio o morte del coniuge; raggiungimento della maggiore età del figlio).
+- i figli ricongiunti che compiono la maggiore età, ma che continuano ad essere a carico del genitore convivente, possono chiedere il rinnovo per motivi familiari, dimostrando il possesso del requisito reddituale e di idoneità abitativa da parte del genitore.
 
 RINNOVO: Il titolare del permesso di soggiorno per motivi familiari deve
 presentare domanda di rinnovo 60 giorni prima della scadenza del titolo.
@@ -546,35 +529,35 @@ La domanda di rinnovo del permesso di soggiorno si presenta attraverso
 la compilazione del Kit postale da spedire con apposita busta nei
 Sportelli Postali abilitati.
 
-ATTENZIONE: • se si è in possesso del permesso di soggiorno ce di lungo
+**ATTENZIONE**:
+
+- se si è in possesso del permesso di soggiorno ce di lungo
 periodo o della carta di soggiorno a tempo indeterminato, soltanto i
 figli minori ricongiunti potranno ottenere lo stesso documento, gli
 altri familiari per ottenerlo dovranno restare in Italia per minimo
 cinque anni consecutivi e dimostrare di aver raggiunto il livello A2
 della lingua italiana.
-
-• se il familiare dopo aver ritirato il permesso di soggiorno esce
+- se il familiare dopo aver ritirato il permesso di soggiorno esce
 dall'Italia non deve rimanere fuori per più di 6 mesi se la durata del
 permesso di soggiorno è pari a un anno, per più di un anno se la durata
 del permesso di soggiorno ha validità due anni o più. Si rischia di non
 poter rinnovare il permesso di soggiorno.
 
-**Come si richiede la residenza al Comune di Milano?**
+# Come si richiede la residenza al Comune di Milano?
 
 Il cittadino straniero che deve chiedere per la prima volta la residenza
 a Milano deve prenotare on-line l'appuntamento in una delle sedi
 anagrafiche decentrate. La prenotazione è accessibile dal percorso
-seguente: www.comune.milano.it → utilizza i servizi → anagrafe e servizi
-civici → residenza e cittadinanza → iscrizione anagrafica stranieri
+seguente: [www.comune.milano.it](http://www.comune.milano.it) → utilizza i servizi → anagrafe e servizi
+civici → residenza e cittadinanza → iscrizione anagrafica stranieri.
 
 Documentazione necessaria da presentare alla sede anagrafica:
-1.Originale e copia del passaporto o documento equipollente in corso di
-validità; 2. Originale e copia del visto d'ingresso; 3. Ricevuta
-rilasciata dall'Ufficio postale attestante l'avvenuta presentazione
-della richiesta di Permesso (Kit) o, in assenza, fotocopia della
-prenotazione dell'appuntamento presso lo Sportello Unico; 4. Fotocopia
-non autenticata del Nulla Osta al ricongiungimento familiare; 5. Codice
-fiscale (originale e fotocopia).
+
+1. Originale e copia del passaporto o documento equipollente in corso di validità;
+2. Originale e copia del visto d'ingresso;
+3. Ricevuta rilasciata dall'Ufficio postale attestante l'avvenuta presentazione della richiesta di Permesso (Kit) o, in assenza, fotocopia della prenotazione dell'appuntamento presso lo Sportello Unico; 
+4. Fotocopia non autenticata del Nulla Osta al ricongiungimento familiare; 
+5. Codice fiscale (originale e fotocopia).
 
 Per la registrazione anagrafica del rapporto di parentela e per il
 rilascio della relativa certificazione presentare copia degli atti
@@ -586,17 +569,10 @@ Italia, legalizzata presso la Prefettura.
 
 È possibile trasmettere la richiesta di iscrizione anagrafica anche:
 
-• via e-mail alla casella: [ServiziAlCittadino@postacert.comune.milano.it](mailto:ServiziAlCittadino@postacert.comune.milano.it)
-(al fine di facilitare e velocizzare lo smistamento delle richieste si
-chiede cortesemente di
+- via e-mail alla casella: [ServiziAlCittadino@postacert.comune.milano.it](mailto:ServiziAlCittadino@postacert.comune.milano.it) (al fine di facilitare e velocizzare lo smistamento delle richieste si chiede cortesemente di indicare nell'oggetto della e-mail la sigla "APR")
+- via fax al n. 02.88460164
 
-**rilasciato dalla Questura al familiare ricongiunto?**
-
-indicare nell'oggetto della e-mail la sigla "APR")
-
-• via fax al n. 02.88460164
-
-**Come si ottiene la Carta Regionale dei Servizi (Tessera Sanitaria)?**
+# Come si ottiene la Carta Regionale dei Servizi (Tessera Sanitaria)?
 
 La tessera sanitaria permette di usufruire delle prestazioni del Sistema
 Sanitario Italiano. Per ottenere la tessera sanitaria è necessario
@@ -609,34 +585,31 @@ soggiorno: per rinnovarla, si dovrà presentare alla ATS Milano (ex Asl)
 la documentazione che attesta la richiesta del rinnovo del permesso di
 soggiorno.
 
-Documentazione necessaria: 1 Ricevuta postale attestante l'avvenuta
-presentazione della richiesta del permesso di
+Documentazione necessaria: 
 
-soggiorno (Kit) 2 Fotocopia del Nulla Osta al ricongiungimento familiare
-3 Passaporto o altro documento equipollente riconosciuto dalle Autorità
-Italiane 4 Codice fiscale 5 Documentazione attestante la residenza o
-dichiarazione di effettiva dimora 6 Nel caso di genitore
-ultrasessantacinquenne, la ricevuta di versamento del contributo
-
-per l'iscrizione volontaria al SSN o la polizza sanitaria privata. Il
+1. Ricevuta postale attestante l'avvenuta presentazione della richiesta del permesso di soggiorno (Kit)
+2. Fotocopia del Nulla Osta al ricongiungimento familiare
+3. Passaporto o altro documento equipollente riconosciuto dalle Autorità Italiane
+4. Codice fiscale
+5. Documentazione attestante la residenza o dichiarazione di effettiva dimora
+6. Nel caso di genitore ultrasessantacinquenne, la ricevuta di versamento del contributo per l'iscrizione volontaria al SSN o la polizza sanitaria privata. Il
 bollettino postale si ritira direttamente negli uffici dell'ATS Milano
 (ex Asl.).
 
-**Se i familiari ricongiunti devono studiare in Italia, quali documenti
-portare dal paese d'origine per iscriverli a scuola?**
+# Se i familiari ricongiunti devono studiare in Italia, quali documenti portare dal paese d'origine per iscriverli a scuola?
 
 Per i ragazzi dai 6 ai 14 anni è necessario preparare il certificato che
 attesti gli anni di scolarità o il titolo di studio ottenuto nel paese
 straniero e rilasciato dalla scuola possibilmente tradotto in italiano.
 
-Per i ragazzi dai 14 anni in poi è necessario preparare la Dichiarazione
-di Valore accompagnata dalla legalizzazione e traduzione in lingua
-italiana del titolo di studio da richiedere al Consolato Italiano nel
+Per i ragazzi dai 14 anni in poi è necessario preparare la **Dichiarazione
+di Valore** accompagnata dalla **legalizzazione e traduzione in lingua
+italiana** del titolo di studio da richiedere al Consolato Italiano nel
 paese d'origine.
 
 I ragazzi che hanno già frequentato 12 anni di scuola nel paese
 d'origine possono iscriversi ai corsi superiori e universitari sempre
-portando con sé la Dichiarazione di Valore .
+portando con sé la **Dichiarazione di Valore**.
 
 Per i ragazzi che sono stati vaccinati nel paese d'origine, si consiglia
 di portare in Italia la documentazione sanitaria. Inoltre non
@@ -644,101 +617,39 @@ dimenticare di preparare le certificazioni che attestino disabilità e
 disagi neurologici o psichiatrici che richiedono attenzioni specifiche
 nella frequenza scolastica.
 
-**Cosa occorre fare per iscrivere i figli neo arrivati a scuola?**
+# Cosa occorre fare per iscrivere i figli neo arrivati a scuola?
 
 È importante sapere che:
 
-• La scuola in Italia è obbligatoria dai 6 ai 16 anni.
-
-• La scuola statale italiana è pubblica e gratuita.
-
-• L'anno scolastico si apre a settembre e chiude a giugno ma
-l'iscrizione può essere richiesta in qualsiasi periodo.
-
-• Al momento dell'iscrizione la segreteria della scuola richiederà gli
-stessi documenti che vengono richiesti agli studenti italiani
+- La scuola in Italia è obbligatoria dai 6 ai 16 anni.
+- La scuola statale italiana è pubblica e gratuita.
+- L'anno scolastico si apre a settembre e chiude a giugno ma l'iscrizione può essere richiesta in qualsiasi periodo.
+- Al momento dell'iscrizione la segreteria della scuola richiederà gli stessi documenti che vengono richiesti agli studenti italiani
 (anagrafici, scolastici e sanitari)
-
-• In mancanza di tale documentazione, l'iscrizione verrà comunque
+- In mancanza di tale documentazione, l'iscrizione verrà comunque
 accolta.
 
-Finito il secondo ciclo di istruzione esistono i corsi post-diploma o
-università. Per essere aiutati a scegliere è possibile rivolgersi allo
-sportello gratuito Formazione e Lavoro del Centro delle Culture del
-Mondo del Comune di Milano o al servizio orientamento delle Università.
-
-**Come trovare un corso d'italiano a Milano?**
-
-**Quale scuola scegliere?**
+# Quale scuola scegliere?
 
 La scuola in Italia si divide in due cicli di istruzione: il primo ciclo
 di istruzione dura 8 anni, il secondo da 3 a 5 anni.
 
-Durata Età Primo ciclo Scuola primaria 5 anni Da 6 a 11 anni
-
-Scuola secondaria di 1° grado 3 anni Da 11 a 14
-
-**anni Secondo ciclo**
-
-Scuola secondaria di 2° grado (comunemente chiamata scuola superiore)
-
-3/5 anni
-
-Da 14 a 19 anni
+|||Durata|Età|
+|---|---|---|---|
+|**Primo ciclo**|Scuola primaria|5 anni|Da 6 a 11 anni|
+||Scuola secondaria di 1° grado|3 anni|Da 11 a 14 anni|
+|**Secondo ciclo**|Scuola secondaria di 2° grado (comunemente chiamata scuola superiore)|3/5 anni|Da 14 a 19 anni|
 
 Per conoscere l'indirizzo della scuola di Milano del primo ciclo a cui
 iscrivere tuo figlio puoi rivolgerti agli sportelli Poli START del tuo
 Municipio di residenza.
 
-**POLO START 1**
-
-Municipio 1,2,3
-
-via Giacosa, 46
-
-02.88441584/41583 cell. 333 3292020
-
-[polo.start1@gmail.com](mailto:polo.start1@gmail.com)
-
-**POLO START 2**
-
-Municipio 4,5
-
-via Polesine 12/14
-
-02\. 88446512 [polostart2@gmail.com](mailto:polostart2@gmail.com)
-
-[polostart2info@gmail.com](mailto:polostart2info@gmail.com) POLO START 3
-
-Municipio 6,7
-
-via Zuara 7/9 02.88444461/2 [polostart3@gmail.com](mailto:polostart3@gmail.com)
-
-**POLO START 4**
-
-Municipio 8, 9
-
-via Scialoia, 21
-
-02.88442012 [polostart4@gmail.com](mailto:polostart4@gmail.com)
-
-Per scegliere il corso d'italiano prima bisogna capire se serve ottenere
-un Attestato o un Certificato di conoscenza della lingua. Se serve un
-Attestato di Livello A2, utile per i punti dell'Accordo Integrazione e
-per ottenere il Permesso di Soggiorno per Soggiornanti di lungo periodo,
-la cosa più semplice è cercare un corso in una scuola pubblica (CPIA). I
-CPIA a Milano sono:
-
-1\. CPIA Via Pontano,43 - tel. 0245375400, [cpia.milano@gmail.com](mailto:cpia.milano@gmail.com) 2. CPIA
-Via Heine, 2 - tel. 0288441489 3. CPIA Via Colletta, 51 – tel.
-0245375420/21 4. CPIA Viale Zara, 100 – tel. 02 36589280 5. CPIA Via
-Scrosati, 3 – tel. 0236510371 6. CPIA Via Pizzigoni, 9 – tel. 0236588260
-7. CPIA Viale Campania, 8 – tel. 0270004656
-
-Il sito del Comune di Milano www.milano.italianostranieri.org può
-aiutare a cercare la scuola giusta. È possibile chiedere un consiglio o
-un aiuto per un orientamento a: [info@italianostranieri.org](mailto:info@italianostranieri.org);
-tel.0288448248 (martedì, mercoledì e giovedì 9.00-12.00; 14.00-16.00)
+| | | | | |
+|-|-|-|-|-|
+|**POLO START 1**|Municipio 1,2,3|via Giacosa, 46|02.88441584/41583 cell. 333 3292020|[polo.start1@gmail.com](mailto:polo.start1@gmail.com)|
+|**POLO START 2**|Municipio 4,5|via Polesine 12/14|02. 88446512|[polostart2@gmail.com](mailto:polostart2@gmail.com), [polostart2info@gmail.com](mailto:polostart2info@gmail.com)
+|**POLO START 3**|Municipio 6,7|via Zuara 7/9|02.88444461/2|[polostart3@gmail.com](mailto:polostart3@gmail.com)
+|**POLO START 4**|Municipio 8, 9|via Scialoia, 21|02.88442012| [polostart4@gmail.com](mailto:polostart4@gmail.com)
 
 Le scuole del secondo ciclo sono tante e con materie scolastiche
 diverse. La scelta dipende dall'interesse dello studente. Per essere
@@ -746,8 +657,32 @@ orientato alla scelta è possibile rivolgersi a Cerco Offro Scuola,
 sportello gratuito del Comune di Milano, chiedendo un appuntamento
 attraverso la seguente mail: [Ed.CercoOffroScuola@comune.milano.it](mailto:Ed.CercoOffroScuola@comune.milano.it)
 
-**Il ricongiungimento familiare non è solo una procedura
-amministrativa**
+Finito il secondo ciclo di istruzione esistono i corsi post-diploma o
+università. Per essere aiutati a scegliere è possibile rivolgersi allo
+sportello gratuito Formazione e Lavoro del Centro delle Culture del
+Mondo del Comune di Milano o al servizio orientamento delle Università.
+
+# Come trovare un corso d'italiano a Milano?
+
+Per scegliere il corso d'italiano prima bisogna capire se serve ottenere
+un Attestato o un Certificato di conoscenza della lingua.<br>Se serve un
+Attestato di Livello A2, utile per i punti dell'Accordo Integrazione e
+per ottenere il Permesso di Soggiorno per Soggiornanti di lungo periodo,
+la cosa più semplice è cercare un corso in una scuola pubblica (CPIA). I
+CPIA a Milano sono:
+
+1. CPIA Via Pontano,43 - tel. 0245375400, [cpia.milano@gmail.com](mailto:cpia.milano@gmail.com)
+2. CPIA Via Heine, 2 - tel. 0288441489
+3. CPIA Via Colletta, 51 – tel. 0245375420/21
+4. CPIA Viale Zara, 100 – tel. 02 36589280
+5. CPIA Via Scrosati, 3 – tel. 0236510371
+6. CPIA Via Pizzigoni, 9 – tel. 0236588260
+7. CPIA Viale Campania, 8 – tel. 0270004656
+
+Il sito del Comune di Milano [www.milano.italianostranieri.org](www.milano.italianostranieri.org) può aiutare a cercare la scuola giusta.<br>È possibile chiedere un consiglio o un aiuto per un orientamento a: [info@italianostranieri.org](mailto:info@italianostranieri.org);
+tel.0288448248 (martedì, mercoledì e giovedì 9.00-12.00; 14.00-16.00)
+
+# Il ricongiungimento familiare non è solo una procedura amministrativa
 
 La scelta di fare il ricongiungimento familiare non implica solo
 affrontare una procedura amministrativa complessa ma anche un percorso
@@ -763,22 +698,10 @@ Culture del Mondo del Comune di Milano può aiutare ad affrontare il
 ricongiungimento familiare in tutte le sue fasi e ad individuare i
 servizi in città che possono supportare le famiglie ricongiunte.
 
-**INDIRIZZARIO**
+# INDIRIZZARIO
 
-Centro delle Culture del Mondo Comune di Milano
-
-Via Scaldasole n.5
-
-02 884 48248-48246 [PSS.CentroCultureMondo@comune.milano.it](mailto:PSS.CentroCultureMondo@comune.milano.it)
-
-SUI Prefettura di Milano
-
-Via Servio Tullio n.4
-
-02 77581 [ricongfamiliari.pref_milano@interno.it](mailto:ricongfamiliari.pref_milano@interno.it)
-
-Cerco Offro Scuola Comune di Milano
-
-Via Pastrengo n.6
-
-[Ed.CercoOffroScuola@comune.milano.it](mailto:Ed.CercoOffroScuola@comune.milano.it)
+| | | |
+|-|-|-|
+|Centro delle Culture del Mondo Comune di Milano|Via Scaldasole n.5|02 884 48248-48246 [PSS.CentroCultureMondo@comune.milano.it](mailto:PSS.CentroCultureMondo@comune.milano.it)|
+|SUI Prefettura di Milano|Via Servio Tullio n.4|02 77581 [ricongfamiliari.pref_milano@interno.it](mailto:ricongfamiliari.pref_milano@interno.it)|
+|Cerco Offro Scuola Comune di Milano|Via Pastrengo n.6|[Ed.CercoOffroScuola@comune.milano.it](mailto:Ed.CercoOffroScuola@comune.milano.it)
