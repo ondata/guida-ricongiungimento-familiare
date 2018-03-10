@@ -1,9 +1,9 @@
 # GUIDA PER IL RICONGIUNGIMENTO FAMILIARE TRA CITTADINI EXTRA UE
 
 La guida per il ricongiungimento familiare è il prodotto del lavoro
-congiunto di operatori del Comune di Milano (DC Educazione e Istruzione,
+congiunto di operatori del **Comune di Milano** (DC Educazione e Istruzione,
 DC Decentramento e Servizi al Cittadino e Dc Politiche Sociali e Cultura
-della Salute) e della Prefettura di Milano (Sportello Unico per
+della Salute) e della **Prefettura di Milano** (Sportello Unico per
 l'Immigrazione). Il tavolo di lavoro interistituzionale si è costituito
 grazie all'Accordo operativo Interistituzionale sottoscritto dal Comune
 di Milano, dalla Prefettura e dall'Ufficio Scolastico Territoriale
