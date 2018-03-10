@@ -38,11 +38,11 @@ dedicato al rafforzamento della governance sul tema del ricongiungimento
 familiare.
 
 La guida vuole essere un Vademecum sulla documentazione necessaria nelle
-diverse “tappe” del processo di ricongiungimento familiare tra cittadini
+diverse "tappe" del processo di ricongiungimento familiare tra cittadini
 extra UE, da rendere disponibile sui siti dei diversi Enti che a vario
 titolo si occupano di famiglie che si ricongiungono o ricongiunte e
 presso gli uffici municipali del Comune di Milano. La guida non deve
-essere considerata come il “prodotto conclusivo” del lavoro di gruppo,
+essere considerata come il "prodotto conclusivo" del lavoro di gruppo,
 bensì come la base sulla quale costruire il prosieguo delle attività. In
 tal senso, quanto realizzato sino ad ora rappresenta l'avvio di un
 percorso di riflessione, condivisione e approfondimento
@@ -197,11 +197,11 @@ d) Originale e fotocopia del
 codice fiscale del richiedente;<br>
 e) Originale certificato di stato
 famiglia del richiedente rilasciato dal Comune di
-residenza con la dicitura “uso immigrazione”<br>
+residenza con la dicitura "uso immigrazione"<br>
 f) Originale certificato
 stato di famiglia rilasciato dal Comune relativo alle persone che
 abitano nell'alloggio ove dimoreranno i familiari ricongiunti rilasciato
-dal Comune di residenza con la dicitura “uso immigrazione”;<br> 
+dal Comune di residenza con la dicitura "uso immigrazione";<br> 
 **g) PER L'ALLOGGIO**
 
 - Fotocopia e originale del contratto di locazione/comodato/compravendita di durata non inferiore a sei mesi a decorrere dalla data di presentazione della domanda;
@@ -216,7 +216,7 @@ su questo documento). **ATTENZIONE**: in caso di ricongiungimento familiare
 di figli minori, nell'alloggio dove dimoreranno deve necessariamente
 abitare almeno uno dei genitori;
 - Se il richiedente è ospite:
-  - dichiarazione redatta dal titolare/i dell'appartamento su mod. “S2”, attestante il consenso ad ospitare anche i ricongiunti;
+  - dichiarazione redatta dal titolare/i dell'appartamento su mod. "S2", attestante il consenso ad ospitare anche i ricongiunti;
   - fotocopia del documento d'identità del titolare/i dell'alloggio,
 firmata dal medesimo/i; 
 
@@ -226,7 +226,7 @@ minori di anni 14 il certificato idoneità abitativa e igienico sanitaria
 può essere sostituito dal contratto di locazione/comodato/compravendita
 di durata non inferiore a sei mesi a decorrere dalla data di
 presentazione della domanda, unitamente alla dichiarazione di ospitalità
-del titolare/i dell'appartamento redatta su mod. “S1”, oltre a fotocopia
+del titolare/i dell'appartamento redatta su mod. "S1", oltre a fotocopia
 del documento d'identità del dichiarante/i, firmata dal medesimo/i;*
 
 **h) PER IL REDDITO DEI LAVORATORI DIPENDENTI portare in originale e
@@ -236,7 +236,7 @@ fotocopia**
 2) fotocopia del contratto di
 lavoro/lettera di assunzione (modulo C/Ass – Unilav);<br>
 3) ultime tre buste paga;
-4) autocertificazione del datore di lavoro, redatta su modello “S3” con data non anteriore di mesi 1, da cui risulti l'attualità del rapporto di lavoro e la retribuzione mensile corrisposta;
+4) autocertificazione del datore di lavoro, redatta su modello "S3" con data non anteriore di mesi 1, da cui risulti l'attualità del rapporto di lavoro e la retribuzione mensile corrisposta;
 5) fotocopia del documento d'identità del datore di lavoro,
 debitamente firmata dal medesimo;
 
@@ -246,7 +246,7 @@ fotocopia**
 1) ultima dichiarazione dei redditi, ove posseduta;
 2) comunicazione di assunzione al Centro per l'Impiego o all'INPS;
 3)ultimo bollettino di versamento dei contributi INPS, con attestazione dell'avvenuto pagamento;
-4) autocertificazione del datore di lavoro, redatta su modello “S3”, con data non anteriore di mesi 1 da cui risulti l'attualità del rapporto di lavoro e la retribuzione mensile corrisposta;<br>
+4) autocertificazione del datore di lavoro, redatta su modello "S3", con data non anteriore di mesi 1 da cui risulti l'attualità del rapporto di lavoro e la retribuzione mensile corrisposta;<br>
 5) fotocopia del documento d'identità del datore di lavoro,
 debitamente firmata dal medesimo;
 
@@ -352,9 +352,9 @@ stesso predisposta** e certificato di conformità a norma degli impianti a gas e
 
 ATTENZIONE: i numeri di conto corrente per effettuare il versamento per
 il sopralluogo a favore del Collegio dei Geometri o dell'ASL MILANO
-sono: **c/c n. 4741783** intestato a “COLLEGIO GEOMETRI E GEOMETRI LAUREATI
+sono: **c/c n. 4741783** intestato a "COLLEGIO GEOMETRI E GEOMETRI LAUREATI
 PR. MILANO GEST.CONV.COM.MI Piazza Sant'Ambrogio, 21 - 20123 Milano –
-IMPORTO **€ 76,86** **c/c n. 14083273** intestato a “ATS della Città
+IMPORTO **€ 76,86** **c/c n. 14083273** intestato a "ATS della Città
 Metropolitana di Milano Dip. Prevenzione – Servizio Tesoreria Corso
 Italia, 19 – 20122 Milano – IMPORTO **€ 72,76**.
 
@@ -463,7 +463,7 @@ l'Immigrazione.*
 
 L'Accordo ha la durata di due anni, prorogabile di un altro anno. Un
 mese prima della scadenza dei due anni lo Sportello Unico verifica il
-**totale dei “punti”** raggiunti che deve essere **pari o maggiori di 30**.
+**totale dei "punti"** raggiunti che deve essere **pari o maggiori di 30**.
 
 Al familiare entrato in Italia all'atto della firma dell''Accordo
 vengono assegnati 16 punti, per non perderne 15 bisogna frequentare il
@@ -498,7 +498,7 @@ I principali impegni previsti dall'Accordo di Integrazione sono:
 - Iscriversi al Servizio Sanitario Nazionale (SSN) e scegliere il
 medico.
 
-Per ognuno di questi impegni sono previsti dei “crediti”, cioè un numero preciso di punti: 
+Per ognuno di questi impegni sono previsti dei "crediti", cioè un numero preciso di punti: 
 
 - Se allo scadere dei due anni non sono stati raggiunti i 30 crediti (punti), l'accordo viene prorogato di un altro anno alle stesse condizioni;
 - Se non si è in possesso della documentazione per dimostrare i crediti ottenuti, si può chiedere di essere sottoposto ad un test di conoscenza della lingua italiana, della cultura civica e della vita civile in Italia;
@@ -506,7 +506,7 @@ Per ognuno di questi impegni sono previsti dei “crediti”, cioè un numero pr
 
 # Che tipo di permesso di soggiorno verrà rilasciato dalla Questura al familiare ricongiunto?
 
-Il permesso di soggiorno verrà rilasciato per “motivi familiari” e avrà
+Il permesso di soggiorno verrà rilasciato per "motivi familiari" e avrà
 la stessa durata del permesso di soggiorno del familiare a cui è
 collegato. Il permesso di soggiorno per motivi di famiglia è previsto e
 regolato dall'articolo 30 del Testo Unico sull'immigrazione (D. Lgs.
