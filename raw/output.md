@@ -411,7 +411,7 @@ Se vengono rifiutati il nulla osta o il visto d'ingresso per
 ricongiungimento familiare:
 
 - si ha diritto a chiedere sempre la motivazione per iscritto
-- si può presentare ricorso al Tribunale Ordinario del luogo di residenza (a Milano in C\.so di Porta Vittoria).
+- si può presentare ricorso al Tribunale Ordinario del luogo di residenza (a Milano in C.so di Porta Vittoria).
 Se il Giudice accoglie il ricorso rilascia direttamente il visto
 d'ingresso per ricongiungimento familiare.
 
