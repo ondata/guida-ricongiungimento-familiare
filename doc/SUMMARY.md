@@ -22,4 +22,4 @@
 * [Quale scuola scegliere?](18.md)
 * [Come trovare un corso d'italiano a Milano?](19.md)
 * [Il ricongiungimento familiare non è solo una procedura amministrativa](20.md)
-* [INDIRIZZARIO](21.md)
+* [Indirizzario](21.md)
