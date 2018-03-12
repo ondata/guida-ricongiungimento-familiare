@@ -1,6 +1,6 @@
 ## Guida per il ricongiungimento familiare tra cittadini extra UE
 
-**Nota bene**: questa è la **versione ipertestuale della guida**, creata da onData in occaasione dell'*hackathon* **Services4MIgrants** ([maggiori dettagli](Leggimi.md)).
+***Nota bene**: questa **versione ipertestuale della guida** è stata creata da onData, in occasione dell'*hackathon* #Services4MIgrants ([maggiori dettagli](Leggimi.md))*.
 
 ---
 
