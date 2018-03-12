@@ -4,11 +4,13 @@
 
 Il 10 e 11 marzo del 2018 [**onData**](http://ondata.it/) è stata *mentor* (con Andrea Borruso e Ilaria Vitellio) dell'*hackathon* [**Services4MIgrants**](https://www.eventbrite.it/e/biglietti-services4migrants-un-hackathon-per-migliorare-i-servizi-ai-migranti-43354522544), che aveva come obiettivo quello di rendere comprensibili e accessibili - attraverso l'ideazione di nuovi linguaggi, l'uso di dati aperti e le tecnologie informatiche - le complesse procedure burocratiche che i migranti devono affrontare per il "**ricongiungimento familiare**".
 
-Il **Comune di Milano** ha realizzato la [**"Guida per il ricongiungimento familiare tra cittadini extra UE"**](assets/GUIDA_RICONGIUNGIMENTO_FAMILIARE_20_9_2016.pdf), rivolta ai tanti "mediatori" che danno supporto a chi deve affrontare queste pratiche.<br>
+Il **Comune di Milano** ha realizzato la [**"Guida per il ricongiungimento familiare tra cittadini extra UE"**](doc/assets/GUIDA_RICONGIUNGIMENTO_FAMILIARE_20_9_2016.pdf), rivolta ai tanti "mediatori" che danno supporto a chi deve affrontare queste pratiche.<br>
 È un file in formato PDF composto da 16 pagine, pensato per essere stampato (come si evince dalle pagine bianche presenti, le "retrocopertine") e
 
-È il riferimento a tema principale ed è stato molto usato dai partecipanti all'*hackathon*.<br>
+È il principale riferimento sul tema (per il territorio di Milano) ed è stato molto usato dai partecipanti all'*hackathon*.<br>
 Per questa ragione, in attesa di nuovi supporti informativi, è stato **trasformato** in un **documento ipertestuale**.
+
+Questa versione ipertestuale non è frutto di uno dei tavoli dell'*hackathon*: ci è sembrata però utile crearla alla luce di quanto sentito e visto nei giorni dell'evento e dopo il confronto con chi nelle varie pubbliche amministrazioni coinvolte ha redatto e fa uso del documento originale (il PDF).
 
 ## Le caratteristiche principali di questa nuova versione
 
