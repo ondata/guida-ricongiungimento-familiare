@@ -26,6 +26,22 @@ Questa versione ipertestuale non è frutto di uno dei tavoli dell'*hackathon*: c
 - la possibilità di **raccogliere commenti** per le varie sezioni;
 - l'**export** in **PDF** e in **ePub**.
 
+## Le caratteristiche principali di questa nuova versione
+
+- ottimizzata per essere molto **leggibile**, sia *desktop* che da *smartphone*;
+- un **indice ipertestuale** a scomparsa (vedi `1`);
+- la possibilità di modificare **dimensioni** e **tipo** di ***font*** (vedi `2`);
+- la possibilità di modificare **tema**, per scegliere versione per lettura notturna (vedi `2`);
+- i tasti per la **condivisione** sui *social* (vedi `3`);
+- l'opportunità di **lavorare in gruppo** per fare revisioni, correzioni e integrazioni sui testi, tramite un *repository* github (vedi `4`);
+- un form per **ricerche di testo**;
+- la possibilità di **condividere** e inviare l'hyperlink solo alla **porzione di interesse** e non l'intero testo (come si è costretti con il PDF);
+- attivazione dei **link ipertestuali** anche sugli indirizzi **email** (nel PDF non lo sono);
+- la possibilità di **raccogliere commenti** per le varie sezioni;
+- l'**export** in **PDF** e in **ePub**.
+
+![](assets/mobile03.png)
+
 ### Il riuso da parte di altre Pubbliche Amministrazioni
 
 Il documento originale - il PDF - non è riutilizzabile, perché non è un file di testo modificabile.<br>
@@ -33,9 +49,7 @@ Per realizzare questa versione ipertestuale è stato **trasformato in file di te
 
 Un **altro comune** lo potrà utilizzare per **costruire** e pubblicare **la sua guida**. Infatti si tratta di una legge nazionale, quindi la guida ha valore per tutta l'Italia, ma sono possibile delle piccole modifiche procedurali locali. E ovviamente è necessario cambiare i riferimenti ai vari indirizzi email e URL locali citati, così come numeri di telefono, nomi degli uffici, indirizzi, ecc..
 
-
-
-![](doc/assets/mobile03.png)
+*by [Associazione onData](http://ondata.it/)*
 
 
 *by [Associazione onData](http://ondata.it/)*
