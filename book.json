@@ -5,7 +5,7 @@
     "direction": "ltr",
     "pdf.paperSize": "a4",
     "root": "doc",
-    "plugins" : [ "anchors","edit-link","disqus","superscript","youtube"],
+    "plugins" : [ "anchors","edit-link","disqus","superscript","youtube","bootstrap-callout"],
         "pluginsConfig": {
             "edit-link": {
                 "base": "https://github.com/ondata/guida-ricongiungimento-familiare/tree/master/doc",
