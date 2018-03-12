@@ -2,6 +2,8 @@
 
 **Nota bene**: questa è la **versione ipertestuale della guida**, creata da onData in occaasione dell'*hackathon* **Services4MIgrants** ([maggiori dettagli](Leggimi.md)).
 
+---
+
 La guida per il ricongiungimento familiare è il prodotto del lavoro
 congiunto di operatori del **Comune di Milano** (DC Educazione e Istruzione,
 DC Decentramento e Servizi al Cittadino e Dc Politiche Sociali e Cultura
