@@ -15,20 +15,6 @@ Questa versione ipertestuale non è frutto di uno dei tavoli dell'*hackathon*: c
 ## Le caratteristiche principali di questa nuova versione
 
 - ottimizzata per essere molto **leggibile**, sia *desktop* che da *smartphone*;
-- un **indice ipertestuale** a scomparsa (vedi `1` nell'immagine di sotto);
-- la possibilità di modificare **dimensioni** e **tipo** di ***font*** (vedi `2`);
-- la possibilità di modificare **tema**, per scegliere versione per lettura notturna (vedi `2`);
-- i tasti per la **condivisione** sui *social* (vedi `3`);
-- l'opportunità di **lavorare in gruppo** per fare revisioni, correzioni e integrazioni sui testi, tramite un *repository* github (vedi `4`);
-- un form per **ricerche di testo**;
-- la possibilità di **condividere** e inviare l'hyperlink solo alla **porzione di interesse** e non l'intero testo (come si è costretti con il PDF);
-- attivazione dei **link ipertestuali** anche sugli indirizzi **email** (nel PDF non lo sono);
-- la possibilità di **raccogliere commenti** per le varie sezioni;
-- l'**export** in **PDF** e in **ePub**.
-
-## Le caratteristiche principali di questa nuova versione
-
-- ottimizzata per essere molto **leggibile**, sia *desktop* che da *smartphone*;
 - un **indice ipertestuale** a scomparsa (vedi `1`);
 - la possibilità di modificare **dimensioni** e **tipo** di ***font*** (vedi `2`);
 - la possibilità di modificare **tema**, per scegliere versione per lettura notturna (vedi `2`);
