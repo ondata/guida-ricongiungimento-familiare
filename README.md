@@ -40,7 +40,7 @@ Questa versione ipertestuale non è frutto di uno dei tavoli dell'*hackathon*: c
 - la possibilità di **raccogliere commenti** per le varie sezioni;
 - l'**export** in **PDF** e in **ePub**.
 
-![](assets/mobile03.png)
+![](doc/assets/mobile03.png)
 
 ### Il riuso da parte di altre Pubbliche Amministrazioni
 
