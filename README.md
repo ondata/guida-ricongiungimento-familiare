@@ -10,6 +10,8 @@ Il **Comune di Milano** ha realizzato la [**"Guida per il ricongiungimento famil
 È il riferimento a tema principale ed è stato molto usato dai partecipanti all'*hackathon*.<br>
 Per questa ragione, in attesa di nuovi supporti informativi, è stato **trasformato** in un **documento ipertestuale**.
 
+Questa versione ipertestuale non è frutto di uno dei tavoli dell'*hackathon*: ci è sembrata però utile crearla alla luce di quanto sentito e visto nei giorni dell'evento e dopo il confronto con chi nelle varie pubbliche amministrazioni coinvolte ha redatto e fa uso del documento originale (il PDF).
+
 ## Le caratteristiche principali di questa nuova versione
 
 - ottimizzata per essere molto **leggibile**, sia *desktop* che da *smartphone*;
