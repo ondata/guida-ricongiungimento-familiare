@@ -1,7 +1,6 @@
 # Summary
 
-* [Introduzione](README.md)
-* [Guida per il ricongiungimento familiare tra cittadini extra UE](00.md)
+* [Premessa](README.md)
 * [Chi può chiedere il ricongiungimento familiare?](01.md)
 * [Quali familiari non comunitari possono essere ricongiunti?](02.md)
 * [Come si ottiene il ricongiungimento familiare?](03.md)
@@ -23,3 +22,4 @@
 * [Come trovare un corso d'italiano a Milano?](19.md)
 * [Il ricongiungimento familiare non è solo una procedura amministrativa](20.md)
 * [Indirizzario](21.md)
+* [Questa guida](leggimi.md)

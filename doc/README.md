@@ -1,35 +1,33 @@
 ## Guida per il ricongiungimento familiare tra cittadini extra UE
 
-![services4migrants](assets/services4migrants.jpg)
+**Nota bene**: questa è la **versione ipertestuale della guida**, creata da onData in occaasione dell'*hackathon* **Services4MIgrants** ([maggiori dettagli](Leggimi.md)).
 
-Il 10 e 11 marzo del 2018 [**onData**](http://ondata.it/) è stata *mentor* (con Andrea Borruso e Ilaria Vitellio) dell'*hackathon* [**Services4MIgrants**](https://www.eventbrite.it/e/biglietti-services4migrants-un-hackathon-per-migliorare-i-servizi-ai-migranti-43354522544), che aveva come obiettivo quello di rendere comprensibili e accessibili - attraverso l'ideazione di nuovi linguaggi, l'uso di dati aperti e le tecnologie informatiche - le complesse procedure burocratiche che i migranti devono affrontare per il "**ricongiungimento familiare**".
+La guida per il ricongiungimento familiare è il prodotto del lavoro
+congiunto di operatori del **Comune di Milano** (DC Educazione e Istruzione,
+DC Decentramento e Servizi al Cittadino e Dc Politiche Sociali e Cultura
+della Salute) e della **Prefettura di Milano** (Sportello Unico per
+l'Immigrazione). Il tavolo di lavoro interistituzionale si è costituito
+grazie all'Accordo operativo Interistituzionale sottoscritto dal Comune
+di Milano, dalla Prefettura e dall'Ufficio Scolastico Territoriale
+dedicato al rafforzamento della governance sul tema del ricongiungimento
+familiare.
 
-Il **Comune di Milano** ha realizzato la [**"Guida per il ricongiungimento familiare tra cittadini extra UE"**](assets/GUIDA_RICONGIUNGIMENTO_FAMILIARE_20_9_2016.pdf) di 16 pagine, pensata per essere stampata (come si evince dalle pagine bianche presenti, le "retrocopertine") e utilizzata dai vari mediatori che danno supporto a chi deve affrontare queste pratiche.<br>
-È il riferimento a tema principale ed è stato molto usato dai partecipanti all'*hackathon*.
+La guida vuole essere un Vademecum sulla documentazione necessaria nelle
+diverse "tappe" del processo di ricongiungimento familiare tra cittadini
+extra UE, da rendere disponibile sui siti dei diversi Enti che a vario
+titolo si occupano di famiglie che si ricongiungono o ricongiunte e
+presso gli uffici municipali del Comune di Milano. La guida non deve
+essere considerata come il "prodotto conclusivo" del lavoro di gruppo,
+bensì come la base sulla quale costruire il prosieguo delle attività. In
+tal senso, quanto realizzato sino ad ora rappresenta l'avvio di un
+percorso di riflessione, condivisione e approfondimento
+interistituzionale sul tema del ricongiungimento.
 
-Per questa ragione, in attesa di nuovi supporti informativi, lo abbiamo **trasformato** in un **documento ipertestuale**.
-
-## Le caratteristiche principali
-
-Questa le caratteristiche principali:
-
-- ottimizzato per essere molto **leggibile**, sia *desktop* che da *smartphone*;
-- un **indice ipertestuale** a scomparsa (vedi `1`);
-- la possibilità di modificare **dimensioni** e **tipo** di ***font*** (vedi `2`);
-- la possibilità di modificare **tema**, per scegliere versione per lettura notturna (vedi `2`);
-- i tasti per la **condivisione** sui *social* (vedi `3`);
-- l'opportunità di **lavorare in gruppo** per fare revisioni, correzioni e integrazioni sui testi, tramite un *repository* github (vedi `4`);
-- un form per **ricerche di testo**;
-- la possibilità di **condividere** e inviare l'hyperlink solo alla **porzione di interesse** e non l'intero testo (come si è costretti con il PDF);
-- attivazione dei **link ipertestuali** anche sugli indirizzi **email** (nel PDF non lo sono);
-- la possibilità di **raccogliere commenti** per le varie sezioni;
-- l'**export** in **PDF** e in **ePub**.
-
-![](assets/mobile03.png)
-
-
-*by [Associazione onData](http://ondata.it/)*
-
----
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribuzione 4.0 Internazionale</a>.
+Hanno collaborato alla realizzazione della guida per il Comune di
+Milano: Antonella Colombo, Rosanna Di Domenico, Maura Gambarana, Maria
+Solimano, Rosanna Sucato (DC Politiche Sociali e Culture della Salute);
+Federica Cantaluppi, Fabiola Colella, Maria Grazia Moro, Angela
+Schillaci (DC Educazione e Istruzione); Piergiuseppe Bettenzoli,
+Maurizio Gerace, Cinzia Marino, Arianna Scarazzini (DC Decentramento e
+Servizi al Cittadino); per la Prefettura Donatella Cera, Claudia
+Puntillo e Miria Noemi Manzo (SUI Milano).
