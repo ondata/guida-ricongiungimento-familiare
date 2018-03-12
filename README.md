@@ -26,6 +26,15 @@ Questa versione ipertestuale non è frutto di uno dei tavoli dell'*hackathon*: c
 - la possibilità di **raccogliere commenti** per le varie sezioni;
 - l'**export** in **PDF** e in **ePub**.
 
+### Il riuso da parte di altre Pubbliche Amministrazioni
+
+Il documento originale - il PDF - non è riutilizzabile, perché non è un file di testo modificabile.<br>
+Per realizzare questa versione ipertestuale è stato **trasformato in file di testo** in formato [Markdown](https://www.wikiwand.com/it/Markdown), a cui è stata associata [**una licenza CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/): adesso quindi è riutilizzabile pienamente sia in termini sostanziali che formali.
+
+Un **altro comune** lo potrà utilizzare per **costruire** e pubblicare **la sua guida**. Infatti si tratta di una legge nazionale, quindi la guida ha valore per tutta l'Italia, ma sono possibile delle piccole modifiche procedurali locali. E ovviamente è necessario cambiare i riferimenti ai vari indirizzi email e URL locali citati, così come numeri di telefono, nomi degli uffici, indirizzi, ecc..
+
+
+
 ![](doc/assets/mobile03.png)
 
 
