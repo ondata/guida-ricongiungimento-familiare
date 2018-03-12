@@ -12,9 +12,7 @@ Per questa ragione, in attesa di nuovi supporti informativi, è stato **trasform
 
 ## Le caratteristiche principali di questa nuova versione
 
-Questa le caratteristiche principali:
-
-- ottimizzato per essere molto **leggibile**, sia *desktop* che da *smartphone*;
+- ottimizzata per essere molto **leggibile**, sia *desktop* che da *smartphone*;
 - un **indice ipertestuale** a scomparsa (vedi `1`);
 - la possibilità di modificare **dimensioni** e **tipo** di ***font*** (vedi `2`);
 - la possibilità di modificare **tema**, per scegliere versione per lettura notturna (vedi `2`);
