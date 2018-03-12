@@ -10,12 +10,12 @@ Il **Comune di Milano** ha realizzato la [**"Guida per il ricongiungimento famil
 È il principale riferimento sul tema (per il territorio di Milano) ed è stato molto usato dai partecipanti all'*hackathon*.<br>
 Per questa ragione, in attesa di nuovi supporti informativi, è stato **trasformato** in un **documento ipertestuale**.
 
-Questa versione ipertestuale non è frutto di uno dei tavoli dell'*hackathon*: ci è sembrata però utile crearla alla luce di quanto sentito e visto nei giorni dell'evento e dopo il confronto con chi nelle varie pubbliche amministrazioni coinvolte ha redatto e fa uso del documento originale (il PDF).
+Questa versione ipertestuale non è frutto di uno dei tavoli dell'*hackathon*: ci è sembrato utile crearla alla luce di quanto sentito e visto nei giorni dell'evento e dopo il confronto con chi nelle varie pubbliche amministrazioni coinvolte ha redatto e/o fa uso del documento originale (il PDF).
 
 ## Le caratteristiche principali di questa nuova versione
 
 - ottimizzata per essere molto **leggibile**, sia *desktop* che da *smartphone*;
-- un **indice ipertestuale** a scomparsa (vedi `1`);
+- un **indice ipertestuale** a scomparsa (vedi `1` nell'immagine di sotto);
 - la possibilità di modificare **dimensioni** e **tipo** di ***font*** (vedi `2`);
 - la possibilità di modificare **tema**, per scegliere versione per lettura notturna (vedi `2`);
 - i tasti per la **condivisione** sui *social* (vedi `3`);
