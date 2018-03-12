@@ -15,7 +15,7 @@ Questa versione ipertestuale non è frutto di uno dei tavoli dell'*hackathon*: c
 ## Le caratteristiche principali di questa nuova versione
 
 - ottimizzata per essere molto **leggibile**, sia *desktop* che da *smartphone*;
-- un **indice ipertestuale** a scomparsa (vedi `1`);
+- un **indice ipertestuale** a scomparsa (vedi `1` nell'immagine di sotto);
 - la possibilità di modificare **dimensioni** e **tipo** di ***font*** (vedi `2`);
 - la possibilità di modificare **tema**, per scegliere versione per lettura notturna (vedi `2`);
 - i tasti per la **condivisione** sui *social* (vedi `3`);
