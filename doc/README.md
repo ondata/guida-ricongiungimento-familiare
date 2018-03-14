@@ -42,4 +42,7 @@ Questa <strong>versione ipertestuale</strong> della guida è stata creata da <a 
 <div id="licenza">
 Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribuzione 4.0 Internazionale</a>.
 <div>
+<div id="logo" align="center">
+<img src="assets/footer.png">
+</div>
 </footer>
