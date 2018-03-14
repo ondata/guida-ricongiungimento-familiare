@@ -16,12 +16,13 @@
     color: #00ADEF;
 }
 
-footer #about{
+#about{
     font-size: 0.85em !important;
     color: #364149 !important;
 }
 
-footer #licenza{
+#licenza{
     font-size: 0.85em !important;
     color: #364149 !important;
 }
+
