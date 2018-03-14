@@ -2,7 +2,7 @@
 
 > #### info::Informazioni
 >
-> Questa **versione ipertestuale della guida** è stata creata da onData, in occasione dell'*hackathon* #Services4MIgrants ([maggiori dettagli](Leggimi.md)).
+> Questa **versione ipertestuale** della guida è stata creata da [**onData**](http://ondata.it/), in occasione dell'*hackathon* #Services4MIgrants ([maggiori dettagli](Leggimi.md)) del progetto [**open4citizens**](http://open4citizens.eu/).
 
 La guida per il ricongiungimento familiare è il prodotto del lavoro
 congiunto di operatori del **Comune di Milano** (DC Educazione e Istruzione,
