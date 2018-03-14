@@ -35,8 +35,12 @@ Per realizzare questa versione ipertestuale è stato **trasformato in file di te
 
 Un **altro comune** lo potrà utilizzare per **costruire** e pubblicare **la sua guida**. Infatti si tratta di una legge nazionale, quindi la guida ha valore per tutta l'Italia, ma sono possibile delle piccole modifiche procedurali locali. E ovviamente è necessario cambiare i riferimenti ai vari indirizzi email e URL locali citati, così come numeri di telefono, nomi degli uffici, indirizzi, ecc..
 
-*by [Associazione onData](http://ondata.it/)*
-
 ---
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribuzione 4.0 Internazionale</a>.
+<footer style="color:blue !important;">
+<div id="about">
+Questa <strong>versione ipertestuale</strong> della guida è stata creata da <a href="http://ondata.it/" target="_blank"><strong>onData</strong></a>, in occasione dell'hackathon <strong>#Services4MIgrants</strong> del progetto <a href="http://open4citizens.eu/" target="_blank"><strong>open4citizens</strong></a>.
+</div>
+<div id="licenza">
+Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribuzione 4.0 Internazionale</a>.
+</div>
+</footer>
