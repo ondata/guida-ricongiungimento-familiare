@@ -16,7 +16,12 @@
     color: #00ADEF;
 }
 
-footer div{
-    font-size: 0.85em;
-    color: #364149
+footer #about{
+    font-size: 0.85em !important;
+    color: #364149 !important;
+}
+
+footer #licenza{
+    font-size: 0.85em !important;
+    color: #364149 !important;
 }
