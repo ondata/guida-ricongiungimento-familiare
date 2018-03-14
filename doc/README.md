@@ -36,7 +36,7 @@ Puntillo e Miria Noemi Manzo (SUI Milano).
 
 ---
 <footer>
-<div ="about">
+<div id="about">
 Questa <strong>versione ipertestuale</strong> della guida è stata creata da <a href="http://ondata.it/" target="_blank"><strong>onData</strong></a>, in occasione dell'hackathon <strong>#Services4MIgrants</strong> del progetto <a href="http://open4citizens.eu/" target="_blank"><strong>open4citizens</strong></a>.
 </div>
 <div id="licenza">
