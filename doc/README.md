@@ -36,4 +36,9 @@ Puntillo e Miria Noemi Manzo (SUI Milano).
 
 ---
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribuzione 4.0 Internazionale</a>.
+<div ="about">
+Questa **versione ipertestuale della guida** è stata creata da onData, in occasione dell'*hackathon* <a href="#"><strong>#Services4MIgrants</strong></a>.
+</div>
+<div id="licenza">
+Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribuzione 4.0 Internazionale</a>.
+<div>
